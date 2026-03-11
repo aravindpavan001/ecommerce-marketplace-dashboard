@@ -50,12 +50,14 @@ The full Power BI (.pbix) file is not included due to GitHub upload size limits.
 
 The dashboard preview and dataset are available in this repository.
  
-  Power BI File Download
+  ## Power BI Dashboard
 
-The Power BI dashboard file can be downloaded here:
+Download the Power BI dashboard file:
 
-[Download PBIX](https://drive.google.com/file/d/1BHCkilqZSr_MvN9h7tR1BALZzThcy6qL/view?usp=drive_link)
+Google Drive Link:
+[https://drive.google.com/your-link](https://drive.google.com/file/d/1_-l2mHnELvuvpN0rL28lLnY_XBblQOsg/view?usp=drive_link)
 
+Unzip the file and open the .pbix using Power BI Desktop.
 
 
  
