@@ -77,7 +77,7 @@ KPIs
 . Total Revenue (GMV)
 . Total Orders
 . Total Customers
-. average order value
+. avg order value
 
   Visualizations
 
